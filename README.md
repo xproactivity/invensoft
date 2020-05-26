@@ -1,6 +1,10 @@
 # invensoft
 Software de inventarios
 IMPLEMENTACION DE SOFTWARE INVENSOFT 
-En el inicio del repositorio encontrara las carpetas con base de datos y sus diferentes tablas
-Para manejo deberá usar gestor de bases de datos Mysql Workbench, realizar la descarga e importar los archivos.
+
+En el repositorio encontrara toda la informacion necesaria para la instalacion del software de inventarios online 
+esta software requiere una impemntacion de base de datos en Mysql Workbench 
+y su visulaizacion sera por medio de chrome 
+
+encontrara un manual en PDF  detallado con imagenes y pasas para su instralacion 
  
